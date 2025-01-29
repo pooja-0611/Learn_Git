@@ -1,1 +1,1 @@
-My third text file
+My third text file in Git
